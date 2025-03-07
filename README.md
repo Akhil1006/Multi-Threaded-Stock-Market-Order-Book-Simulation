@@ -39,3 +39,7 @@ Goal:
 
 Use Case:
 More sophisticated trading engines, such those seen in stock exchanges, cryptocurrency trading platforms, or algorithmic trading systems, can be constructed using this technology as a core framework.
+
+![0utput of Stock Trading Engine](https://github.com/user-attachments/assets/c71bef6a-b68e-4823-b8ce-a01765ee8c8b)
+
+
